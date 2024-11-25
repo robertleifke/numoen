@@ -6,7 +6,7 @@
 
 ### An options marketplace for any ERC-20.
 
-Smart contracts suite of Numoen, an automated market maker that lends out its LP shares to replicate "Squeeth" -- a call option-like derivative for any ERC-20. 
+Smart contracts suite of Numoen, an automated market maker that lends out its LP shares to replicate "Squeeth," a call option-like derivative for any ERC-20. 
 
 ## Installation
 

@@ -12,7 +12,7 @@ Smart contracts suite of Numoen, an automated market maker that lends out its LP
 
 
 ```bash
-forge install numoen/pmmp
+forge install robertleifke/numoen
 ```
 
 ## Local development

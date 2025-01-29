@@ -4,7 +4,7 @@
   <img src="./image/Numoen_logo2.png" width="200" alt="Numoen">
 </p>
 
-### An options marketplace for any ERC-20.
+### A lending market for LP shares.
 
 Smart contracts suite of Numoen, an automated market maker that lends out its LP shares to replicate "Squeeth," a call option-like derivative for any ERC-20. 
 
